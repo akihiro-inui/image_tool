@@ -1,2 +1,2 @@
 # image_tool
-Various tools for projects
+Tool for image processing projects
